@@ -3,9 +3,9 @@
 
 
 ## Redes Sociais
-[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![blog](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)]()
+[![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasbmdark/)
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbonfimmelchior/)
+[![blog](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/DarkWho)
 
 ## Principais tecnologias utilizadas
 <div>
@@ -30,7 +30,6 @@
 
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=Nic-Dev-97&show_icons=true&theme=dracula)
-
 
 
 
