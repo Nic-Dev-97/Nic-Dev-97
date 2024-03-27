@@ -6,6 +6,7 @@ Sou formado em Análise e Desenvolviemnto de Sistemas e atuamente cursando Engen
 ## Redes Sociais
 Aproveite e me siga nas minhas redes sociais principais, estou aberto a interações e oportunidades de networking.
 <br>
+
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasbmdark/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbonfimmelchior/)
 [![blog](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/DarkWho)
