@@ -1,8 +1,10 @@
 # Olá, me chamo Nicolas Bonfim ! 
 ### Bem vindo ao meu perfil GitHub 👋
+Sou formado em Análise e Desenvolviemnto de Sistemas e atuamente cursando Engenharia da Computação. Trabalho como desenvolvedor Junior.
 
 
 ## Redes Sociais
+Aproveite e me siga nas minhas redes sociais principais, estou aberto a interações e oportunidades de networking.
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasbmdark/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolasbonfimmelchior/)
 [![blog](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://pt.duolingo.com/profile/DarkWho)
@@ -23,8 +25,11 @@
 
 ## Principais ferramentas utilizadas
 <div>    
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img alt="Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 </div>
 <br>
 
